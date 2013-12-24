@@ -1,0 +1,6 @@
+Cet e-mail a été envoyé suite à une demande d'enregistrement à $ultiorganizer.
+
+Suivez le lien ci-dessous ou copiez-collez le lien dans la bar d'adresse de votre
+navigateur afin de confirmer la création votre enregistrement.
+
+$url
