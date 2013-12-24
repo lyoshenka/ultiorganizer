@@ -1,0 +1,7 @@
+Cet e-mail vous est envoyé car vous avez reçu les droits d'administration pour 
+votre compte sur $ultiorganizer.
+
+Suivez le lien ci-dessous ou copiez-collez le lien dans la bar d'adresse de votre
+navigateur afin de confirmer la création de votre compte.
+
+$url

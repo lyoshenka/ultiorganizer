@@ -1,0 +1,4 @@
+Cet e-mail contient le nouveau mot de passe pour $url.
+
+Nom d'utilisateur : $username
+Nouveau mot de passe : $password

@@ -253,6 +253,7 @@ CREATE TABLE `uo_dbtranslations` (
   `translation_key` varchar(50) NOT NULL,
   `fi_FI_utf8` varchar(50) DEFAULT NULL,
   `en_GB_utf8` varchar(50) DEFAULT NULL,
+  `fr_FR_utf8` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`translation_key`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE utf8_general_ci;
 
@@ -399,6 +400,7 @@ CREATE TABLE `uo_location` (
   `address` varchar(255) DEFAULT NULL,
   `info_fi_FI_utf8` varchar(255) DEFAULT NULL,
   `info_en_GB_utf8` varchar(255) DEFAULT NULL,
+  `info_fr_FR_utf8` varchar(255) DEFAULT NULL,
   `lat` float(17,13) DEFAULT NULL,
   `lng` float(17,13) DEFAULT NULL,
   PRIMARY KEY (`id`)

@@ -9,7 +9,14 @@ $localeMap = array("en" => "en_GB.utf8",
 					"en-ca" => "en_GB.utf8",
 					"en-us" => "en_GB.utf8",
 					"fi" => "fi_FI.utf8",
-					"fi-fi" => "fi_FI.utf8");
+					"fi-fi" => "fi_FI.utf8",
+					"fr" => "fr_FR.utf8",
+					"fr-be" => "fr_FR.utf8",
+					"fr-ca" => "fr_FR.utf8",
+					"fr-lu" => "fr_FR.utf8",
+					"fr-mc" => "fr_FR.utf8",
+					"fr-ch" => "fr_FR.utf8"
+);
 
 function setSessionLocale() {
 	global $include_prefix;
